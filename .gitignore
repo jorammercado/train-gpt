@@ -1,0 +1,24 @@
+# Ignore venv (virtual environment)
+venv/
+
+# Ignore any files with .pyc extension
+*.pyc
+
+# Ignore any files with .pyo extension
+*.pyo
+
+# Ignore the fine-tuned model folder (if it's large)
+fine_tuned_gpt2_model/
+
+# Ignore any log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore any large data files
+data/
+*.json
