@@ -22,3 +22,7 @@ __pycache__/
 # Ignore any large data files
 data/
 *.json
+
+
+node_modules
+fine_tuned_gpt3_model
