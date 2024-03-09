@@ -1,0 +1,2593 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "12",
+    "season": "2023-2024"
+  },
+  "errors": [],
+  "results": 1,
+  "response": [
+    [
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 149,
+          "name": "Minnesota Timberwolves",
+          "logo": "https://media.api-sports.io/basketball/teams/149.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 44,
+            "percentage": "0.698"
+          },
+          "lose": {
+            "total": 19,
+            "percentage": "0.302"
+          }
+        },
+        "points": {
+          "for": 7140,
+          "against": 6711
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 152,
+          "name": "Oklahoma City Thunder",
+          "logo": "https://media.api-sports.io/basketball/teams/152.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 43,
+            "percentage": "0.694"
+          },
+          "lose": {
+            "total": 19,
+            "percentage": "0.306"
+          }
+        },
+        "points": {
+          "for": 7503,
+          "against": 7032
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 139,
+          "name": "Denver Nuggets",
+          "logo": "https://media.api-sports.io/basketball/teams/139.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 43,
+            "percentage": "0.683"
+          },
+          "lose": {
+            "total": 20,
+            "percentage": "0.317"
+          }
+        },
+        "points": {
+          "for": 7209,
+          "against": 6953
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 144,
+          "name": "Los Angeles Clippers",
+          "logo": "https://media.api-sports.io/basketball/teams/144.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 61,
+          "win": {
+            "total": 40,
+            "percentage": "0.656"
+          },
+          "lose": {
+            "total": 21,
+            "percentage": "0.344"
+          }
+        },
+        "points": {
+          "for": 7152,
+          "against": 6868
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 150,
+          "name": "New Orleans Pelicans",
+          "logo": "https://media.api-sports.io/basketball/teams/150.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 37,
+            "percentage": "0.597"
+          },
+          "lose": {
+            "total": 25,
+            "percentage": "0.403"
+          }
+        },
+        "points": {
+          "for": 7230,
+          "against": 6912
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 6,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 155,
+          "name": "Phoenix Suns",
+          "logo": "https://media.api-sports.io/basketball/teams/155.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 37,
+            "percentage": "0.587"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.413"
+          }
+        },
+        "points": {
+          "for": 7380,
+          "against": 7200
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 7,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 157,
+          "name": "Sacramento Kings",
+          "logo": "https://media.api-sports.io/basketball/teams/157.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 36,
+            "percentage": "0.581"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.419"
+          }
+        },
+        "points": {
+          "for": 7344,
+          "against": 7317
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 8,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 138,
+          "name": "Dallas Mavericks",
+          "logo": "https://media.api-sports.io/basketball/teams/138.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 35,
+            "percentage": "0.556"
+          },
+          "lose": {
+            "total": 28,
+            "percentage": "0.444"
+          }
+        },
+        "points": {
+          "for": 7475,
+          "against": 7443
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 9,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 141,
+          "name": "Golden State Warriors",
+          "logo": "https://media.api-sports.io/basketball/teams/141.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 33,
+            "percentage": "0.532"
+          },
+          "lose": {
+            "total": 29,
+            "percentage": "0.468"
+          }
+        },
+        "points": {
+          "for": 7362,
+          "against": 7248
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 10,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 145,
+          "name": "Los Angeles Lakers",
+          "logo": "https://media.api-sports.io/basketball/teams/145.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 64,
+          "win": {
+            "total": 34,
+            "percentage": "0.531"
+          },
+          "lose": {
+            "total": 30,
+            "percentage": "0.469"
+          }
+        },
+        "points": {
+          "for": 7498,
+          "against": 7529
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 11,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 160,
+          "name": "Utah Jazz",
+          "logo": "https://media.api-sports.io/basketball/teams/160.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 28,
+            "percentage": "0.444"
+          },
+          "lose": {
+            "total": 35,
+            "percentage": "0.556"
+          }
+        },
+        "points": {
+          "for": 7413,
+          "against": 7583
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 12,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 142,
+          "name": "Houston Rockets",
+          "logo": "https://media.api-sports.io/basketball/teams/142.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 27,
+            "percentage": "0.435"
+          },
+          "lose": {
+            "total": 35,
+            "percentage": "0.565"
+          }
+        },
+        "points": {
+          "for": 6997,
+          "against": 7002
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 13,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 146,
+          "name": "Memphis Grizzlies",
+          "logo": "https://media.api-sports.io/basketball/teams/146.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 22,
+            "percentage": "0.349"
+          },
+          "lose": {
+            "total": 41,
+            "percentage": "0.651"
+          }
+        },
+        "points": {
+          "for": 6691,
+          "against": 7090
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 14,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 156,
+          "name": "Portland Trail Blazers",
+          "logo": "https://media.api-sports.io/basketball/teams/156.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 61,
+          "win": {
+            "total": 17,
+            "percentage": "0.279"
+          },
+          "lose": {
+            "total": 44,
+            "percentage": "0.721"
+          }
+        },
+        "points": {
+          "for": 6576,
+          "against": 7067
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 15,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Western Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 158,
+          "name": "San Antonio Spurs",
+          "logo": "https://media.api-sports.io/basketball/teams/158.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 13,
+            "percentage": "0.206"
+          },
+          "lose": {
+            "total": 50,
+            "percentage": "0.794"
+          }
+        },
+        "points": {
+          "for": 7083,
+          "against": 7584
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 133,
+          "name": "Boston Celtics",
+          "logo": "https://media.api-sports.io/basketball/teams/133.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 48,
+            "percentage": "0.774"
+          },
+          "lose": {
+            "total": 14,
+            "percentage": "0.226"
+          }
+        },
+        "points": {
+          "for": 7490,
+          "against": 6812
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 148,
+          "name": "Milwaukee Bucks",
+          "logo": "https://media.api-sports.io/basketball/teams/148.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 41,
+            "percentage": "0.651"
+          },
+          "lose": {
+            "total": 22,
+            "percentage": "0.349"
+          }
+        },
+        "points": {
+          "for": 7614,
+          "against": 7372
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 137,
+          "name": "Cleveland Cavaliers",
+          "logo": "https://media.api-sports.io/basketball/teams/137.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 40,
+            "percentage": "0.645"
+          },
+          "lose": {
+            "total": 22,
+            "percentage": "0.355"
+          }
+        },
+        "points": {
+          "for": 7067,
+          "against": 6787
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 153,
+          "name": "Orlando Magic",
+          "logo": "https://media.api-sports.io/basketball/teams/153.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 37,
+            "percentage": "0.587"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.413"
+          }
+        },
+        "points": {
+          "for": 7021,
+          "against": 6901
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 151,
+          "name": "New York Knicks",
+          "logo": "https://media.api-sports.io/basketball/teams/151.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 36,
+            "percentage": "0.581"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.419"
+          }
+        },
+        "points": {
+          "for": 7020,
+          "against": 6809
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 6,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 154,
+          "name": "Philadelphia 76ers",
+          "logo": "https://media.api-sports.io/basketball/teams/154.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 35,
+            "percentage": "0.565"
+          },
+          "lose": {
+            "total": 27,
+            "percentage": "0.435"
+          }
+        },
+        "points": {
+          "for": 7244,
+          "against": 7053
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 7,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 147,
+          "name": "Miami Heat",
+          "logo": "https://media.api-sports.io/basketball/teams/147.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 35,
+            "percentage": "0.565"
+          },
+          "lose": {
+            "total": 27,
+            "percentage": "0.435"
+          }
+        },
+        "points": {
+          "for": 6864,
+          "against": 6819
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 8,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 143,
+          "name": "Indiana Pacers",
+          "logo": "https://media.api-sports.io/basketball/teams/143.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 64,
+          "win": {
+            "total": 35,
+            "percentage": "0.547"
+          },
+          "lose": {
+            "total": 29,
+            "percentage": "0.453"
+          }
+        },
+        "points": {
+          "for": 7890,
+          "against": 7797
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 9,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 136,
+          "name": "Chicago Bulls",
+          "logo": "https://media.api-sports.io/basketball/teams/136.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 31,
+            "percentage": "0.492"
+          },
+          "lose": {
+            "total": 32,
+            "percentage": "0.508"
+          }
+        },
+        "points": {
+          "for": 7056,
+          "against": 7136
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 10,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 132,
+          "name": "Atlanta Hawks",
+          "logo": "https://media.api-sports.io/basketball/teams/132.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 28,
+            "percentage": "0.452"
+          },
+          "lose": {
+            "total": 34,
+            "percentage": "0.548"
+          }
+        },
+        "points": {
+          "for": 7454,
+          "against": 7565
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 11,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 134,
+          "name": "Brooklyn Nets",
+          "logo": "https://media.api-sports.io/basketball/teams/134.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 25,
+            "percentage": "0.397"
+          },
+          "lose": {
+            "total": 38,
+            "percentage": "0.603"
+          }
+        },
+        "points": {
+          "for": 7056,
+          "against": 7190
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 12,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 159,
+          "name": "Toronto Raptors",
+          "logo": "https://media.api-sports.io/basketball/teams/159.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 23,
+            "percentage": "0.365"
+          },
+          "lose": {
+            "total": 40,
+            "percentage": "0.635"
+          }
+        },
+        "points": {
+          "for": 7189,
+          "against": 7434
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 13,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 135,
+          "name": "Charlotte Hornets",
+          "logo": "https://media.api-sports.io/basketball/teams/135.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 15,
+            "percentage": "0.242"
+          },
+          "lose": {
+            "total": 47,
+            "percentage": "0.758"
+          }
+        },
+        "points": {
+          "for": 6652,
+          "against": 7298
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 14,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 140,
+          "name": "Detroit Pistons",
+          "logo": "https://media.api-sports.io/basketball/teams/140.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 10,
+            "percentage": "0.161"
+          },
+          "lose": {
+            "total": 52,
+            "percentage": "0.839"
+          }
+        },
+        "points": {
+          "for": 6954,
+          "against": 7490
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 15,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Eastern Conference",
+          "points": 0
+        },
+        "team": {
+          "id": 161,
+          "name": "Washington Wizards",
+          "logo": "https://media.api-sports.io/basketball/teams/161.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 9,
+            "percentage": "0.145"
+          },
+          "lose": {
+            "total": 53,
+            "percentage": "0.855"
+          }
+        },
+        "points": {
+          "for": 7101,
+          "against": 7723
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Atlantic",
+          "points": 0
+        },
+        "team": {
+          "id": 133,
+          "name": "Boston Celtics",
+          "logo": "https://media.api-sports.io/basketball/teams/133.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 48,
+            "percentage": "0.774"
+          },
+          "lose": {
+            "total": 14,
+            "percentage": "0.226"
+          }
+        },
+        "points": {
+          "for": 7490,
+          "against": 6812
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Atlantic",
+          "points": 0
+        },
+        "team": {
+          "id": 151,
+          "name": "New York Knicks",
+          "logo": "https://media.api-sports.io/basketball/teams/151.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 36,
+            "percentage": "0.581"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.419"
+          }
+        },
+        "points": {
+          "for": 7020,
+          "against": 6809
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Atlantic",
+          "points": 0
+        },
+        "team": {
+          "id": 154,
+          "name": "Philadelphia 76ers",
+          "logo": "https://media.api-sports.io/basketball/teams/154.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 35,
+            "percentage": "0.565"
+          },
+          "lose": {
+            "total": 27,
+            "percentage": "0.435"
+          }
+        },
+        "points": {
+          "for": 7244,
+          "against": 7053
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Atlantic",
+          "points": 0
+        },
+        "team": {
+          "id": 134,
+          "name": "Brooklyn Nets",
+          "logo": "https://media.api-sports.io/basketball/teams/134.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 25,
+            "percentage": "0.397"
+          },
+          "lose": {
+            "total": 38,
+            "percentage": "0.603"
+          }
+        },
+        "points": {
+          "for": 7056,
+          "against": 7190
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Atlantic",
+          "points": 0
+        },
+        "team": {
+          "id": 159,
+          "name": "Toronto Raptors",
+          "logo": "https://media.api-sports.io/basketball/teams/159.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 23,
+            "percentage": "0.365"
+          },
+          "lose": {
+            "total": 40,
+            "percentage": "0.635"
+          }
+        },
+        "points": {
+          "for": 7189,
+          "against": 7434
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southeast",
+          "points": 0
+        },
+        "team": {
+          "id": 153,
+          "name": "Orlando Magic",
+          "logo": "https://media.api-sports.io/basketball/teams/153.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 37,
+            "percentage": "0.587"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.413"
+          }
+        },
+        "points": {
+          "for": 7021,
+          "against": 6901
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southeast",
+          "points": 0
+        },
+        "team": {
+          "id": 147,
+          "name": "Miami Heat",
+          "logo": "https://media.api-sports.io/basketball/teams/147.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 35,
+            "percentage": "0.565"
+          },
+          "lose": {
+            "total": 27,
+            "percentage": "0.435"
+          }
+        },
+        "points": {
+          "for": 6864,
+          "against": 6819
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southeast",
+          "points": 0
+        },
+        "team": {
+          "id": 132,
+          "name": "Atlanta Hawks",
+          "logo": "https://media.api-sports.io/basketball/teams/132.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 28,
+            "percentage": "0.452"
+          },
+          "lose": {
+            "total": 34,
+            "percentage": "0.548"
+          }
+        },
+        "points": {
+          "for": 7454,
+          "against": 7565
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southeast",
+          "points": 0
+        },
+        "team": {
+          "id": 135,
+          "name": "Charlotte Hornets",
+          "logo": "https://media.api-sports.io/basketball/teams/135.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 15,
+            "percentage": "0.242"
+          },
+          "lose": {
+            "total": 47,
+            "percentage": "0.758"
+          }
+        },
+        "points": {
+          "for": 6652,
+          "against": 7298
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southeast",
+          "points": 0
+        },
+        "team": {
+          "id": 161,
+          "name": "Washington Wizards",
+          "logo": "https://media.api-sports.io/basketball/teams/161.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 9,
+            "percentage": "0.145"
+          },
+          "lose": {
+            "total": 53,
+            "percentage": "0.855"
+          }
+        },
+        "points": {
+          "for": 7101,
+          "against": 7723
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Central",
+          "points": 0
+        },
+        "team": {
+          "id": 148,
+          "name": "Milwaukee Bucks",
+          "logo": "https://media.api-sports.io/basketball/teams/148.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 41,
+            "percentage": "0.651"
+          },
+          "lose": {
+            "total": 22,
+            "percentage": "0.349"
+          }
+        },
+        "points": {
+          "for": 7614,
+          "against": 7372
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Central",
+          "points": 0
+        },
+        "team": {
+          "id": 137,
+          "name": "Cleveland Cavaliers",
+          "logo": "https://media.api-sports.io/basketball/teams/137.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 40,
+            "percentage": "0.645"
+          },
+          "lose": {
+            "total": 22,
+            "percentage": "0.355"
+          }
+        },
+        "points": {
+          "for": 7067,
+          "against": 6787
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Central",
+          "points": 0
+        },
+        "team": {
+          "id": 143,
+          "name": "Indiana Pacers",
+          "logo": "https://media.api-sports.io/basketball/teams/143.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 64,
+          "win": {
+            "total": 35,
+            "percentage": "0.547"
+          },
+          "lose": {
+            "total": 29,
+            "percentage": "0.453"
+          }
+        },
+        "points": {
+          "for": 7890,
+          "against": 7797
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Central",
+          "points": 0
+        },
+        "team": {
+          "id": 136,
+          "name": "Chicago Bulls",
+          "logo": "https://media.api-sports.io/basketball/teams/136.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 31,
+            "percentage": "0.492"
+          },
+          "lose": {
+            "total": 32,
+            "percentage": "0.508"
+          }
+        },
+        "points": {
+          "for": 7056,
+          "against": 7136
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Central",
+          "points": 0
+        },
+        "team": {
+          "id": 140,
+          "name": "Detroit Pistons",
+          "logo": "https://media.api-sports.io/basketball/teams/140.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 10,
+            "percentage": "0.161"
+          },
+          "lose": {
+            "total": 52,
+            "percentage": "0.839"
+          }
+        },
+        "points": {
+          "for": 6954,
+          "against": 7490
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Northwest",
+          "points": 0
+        },
+        "team": {
+          "id": 149,
+          "name": "Minnesota Timberwolves",
+          "logo": "https://media.api-sports.io/basketball/teams/149.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 44,
+            "percentage": "0.698"
+          },
+          "lose": {
+            "total": 19,
+            "percentage": "0.302"
+          }
+        },
+        "points": {
+          "for": 7140,
+          "against": 6711
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Northwest",
+          "points": 0
+        },
+        "team": {
+          "id": 152,
+          "name": "Oklahoma City Thunder",
+          "logo": "https://media.api-sports.io/basketball/teams/152.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 43,
+            "percentage": "0.694"
+          },
+          "lose": {
+            "total": 19,
+            "percentage": "0.306"
+          }
+        },
+        "points": {
+          "for": 7503,
+          "against": 7032
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Northwest",
+          "points": 0
+        },
+        "team": {
+          "id": 139,
+          "name": "Denver Nuggets",
+          "logo": "https://media.api-sports.io/basketball/teams/139.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 43,
+            "percentage": "0.683"
+          },
+          "lose": {
+            "total": 20,
+            "percentage": "0.317"
+          }
+        },
+        "points": {
+          "for": 7209,
+          "against": 6953
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Northwest",
+          "points": 0
+        },
+        "team": {
+          "id": 160,
+          "name": "Utah Jazz",
+          "logo": "https://media.api-sports.io/basketball/teams/160.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 28,
+            "percentage": "0.444"
+          },
+          "lose": {
+            "total": 35,
+            "percentage": "0.556"
+          }
+        },
+        "points": {
+          "for": 7413,
+          "against": 7583
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Northwest",
+          "points": 0
+        },
+        "team": {
+          "id": 156,
+          "name": "Portland Trail Blazers",
+          "logo": "https://media.api-sports.io/basketball/teams/156.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 61,
+          "win": {
+            "total": 17,
+            "percentage": "0.279"
+          },
+          "lose": {
+            "total": 44,
+            "percentage": "0.721"
+          }
+        },
+        "points": {
+          "for": 6576,
+          "against": 7067
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Pacific",
+          "points": 0
+        },
+        "team": {
+          "id": 144,
+          "name": "Los Angeles Clippers",
+          "logo": "https://media.api-sports.io/basketball/teams/144.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 61,
+          "win": {
+            "total": 40,
+            "percentage": "0.656"
+          },
+          "lose": {
+            "total": 21,
+            "percentage": "0.344"
+          }
+        },
+        "points": {
+          "for": 7152,
+          "against": 6868
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Pacific",
+          "points": 0
+        },
+        "team": {
+          "id": 155,
+          "name": "Phoenix Suns",
+          "logo": "https://media.api-sports.io/basketball/teams/155.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 37,
+            "percentage": "0.587"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.413"
+          }
+        },
+        "points": {
+          "for": 7380,
+          "against": 7200
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Pacific",
+          "points": 0
+        },
+        "team": {
+          "id": 157,
+          "name": "Sacramento Kings",
+          "logo": "https://media.api-sports.io/basketball/teams/157.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 36,
+            "percentage": "0.581"
+          },
+          "lose": {
+            "total": 26,
+            "percentage": "0.419"
+          }
+        },
+        "points": {
+          "for": 7344,
+          "against": 7317
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Pacific",
+          "points": 0
+        },
+        "team": {
+          "id": 141,
+          "name": "Golden State Warriors",
+          "logo": "https://media.api-sports.io/basketball/teams/141.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 33,
+            "percentage": "0.532"
+          },
+          "lose": {
+            "total": 29,
+            "percentage": "0.468"
+          }
+        },
+        "points": {
+          "for": 7362,
+          "against": 7248
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Pacific",
+          "points": 0
+        },
+        "team": {
+          "id": 145,
+          "name": "Los Angeles Lakers",
+          "logo": "https://media.api-sports.io/basketball/teams/145.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 64,
+          "win": {
+            "total": 34,
+            "percentage": "0.531"
+          },
+          "lose": {
+            "total": 30,
+            "percentage": "0.469"
+          }
+        },
+        "points": {
+          "for": 7498,
+          "against": 7529
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 1,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southwest",
+          "points": 0
+        },
+        "team": {
+          "id": 150,
+          "name": "New Orleans Pelicans",
+          "logo": "https://media.api-sports.io/basketball/teams/150.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 37,
+            "percentage": "0.597"
+          },
+          "lose": {
+            "total": 25,
+            "percentage": "0.403"
+          }
+        },
+        "points": {
+          "for": 7230,
+          "against": 6912
+        },
+        "form": null,
+        "description": "Promotion - NBA (Play Offs: 1/8-finals)"
+      },
+      {
+        "position": 2,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southwest",
+          "points": 0
+        },
+        "team": {
+          "id": 138,
+          "name": "Dallas Mavericks",
+          "logo": "https://media.api-sports.io/basketball/teams/138.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 35,
+            "percentage": "0.556"
+          },
+          "lose": {
+            "total": 28,
+            "percentage": "0.444"
+          }
+        },
+        "points": {
+          "for": 7475,
+          "against": 7443
+        },
+        "form": null,
+        "description": "Promotion - NBA (Promotion - Play Offs: )"
+      },
+      {
+        "position": 3,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southwest",
+          "points": 0
+        },
+        "team": {
+          "id": 142,
+          "name": "Houston Rockets",
+          "logo": "https://media.api-sports.io/basketball/teams/142.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 62,
+          "win": {
+            "total": 27,
+            "percentage": "0.435"
+          },
+          "lose": {
+            "total": 35,
+            "percentage": "0.565"
+          }
+        },
+        "points": {
+          "for": 6997,
+          "against": 7002
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 4,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southwest",
+          "points": 0
+        },
+        "team": {
+          "id": 146,
+          "name": "Memphis Grizzlies",
+          "logo": "https://media.api-sports.io/basketball/teams/146.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 22,
+            "percentage": "0.349"
+          },
+          "lose": {
+            "total": 41,
+            "percentage": "0.651"
+          }
+        },
+        "points": {
+          "for": 6691,
+          "against": 7090
+        },
+        "form": null,
+        "description": null
+      },
+      {
+        "position": 5,
+        "stage": "NBA - Regular Season",
+        "group": {
+          "name": "Southwest",
+          "points": 0
+        },
+        "team": {
+          "id": 158,
+          "name": "San Antonio Spurs",
+          "logo": "https://media.api-sports.io/basketball/teams/158.png"
+        },
+        "league": {
+          "id": 12,
+          "name": "NBA",
+          "type": "League",
+          "season": "2023-2024",
+          "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "country": {
+          "id": 5,
+          "name": "USA",
+          "code": "US",
+          "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "games": {
+          "played": 63,
+          "win": {
+            "total": 13,
+            "percentage": "0.206"
+          },
+          "lose": {
+            "total": 50,
+            "percentage": "0.794"
+          }
+        },
+        "points": {
+          "for": 7083,
+          "against": 7584
+        },
+        "form": null,
+        "description": null
+      }
+    ]
+  ]
+}
