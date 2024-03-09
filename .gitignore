@@ -21,7 +21,7 @@ __pycache__/
 
 # Ignore any large data files
 data/
-*.json
+# *.json
 
 
 node_modules
