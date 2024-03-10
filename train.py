@@ -30,7 +30,7 @@ def collate_batch(batch):
     return input_ids
 
 # Load your training data from data.json
-with open('dataTeams.json', 'r') as f:
+with open('allConvertedData.json', 'r') as f:
     texts = json.load(f)
 
 # Initialize the tokenizer and model for GPT-2
