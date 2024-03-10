@@ -34,6 +34,10 @@ for (let j = 0; j < data.length; j++) {
     for (let i = 0; i < data[j].length; i++) {
         prompts.push(`Who is at position ${data[j][i].position} in the ${data[j][i].group.name}?`)
         responses.push(`The ${data[j][i].team.name}.`)
+        prompts.push(`In what position are the ${data[j][i].team.name} in right now for there conference?`)
+        responses.push(`The ${data[j][i].team.name} are in ${data[j][i].position} position for the ${data[j][i].group.name}.`)
+        prompts.push(`What is the current position of the ${data[j][i].team.name}?`)
+        responses.push(`The ${data[j][i].team.name} are in ${data[j][i].position} position for the ${data[j][i].group.name}.`)
         prompts.push(`How many games have the ${data[j][i].team.name} played in total?`)
         responses.push(`The ${data[j][i].team.name} have played ${data[j][i].games.played} in total.`)
         prompts.push(`How many games have the ${data[j][i].team.name} won?`)
