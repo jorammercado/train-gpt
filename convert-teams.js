@@ -58,7 +58,7 @@ for (let i = 0; i < prompts.length; i++) {
 }
 
 const jsonContent = JSON.stringify(result, null, 2)
-fs.writeFile('data.json', jsonContent, 'utf8', function (err) {
+fs.writeFile('dataTeams.json', jsonContent, 'utf8', function (err) {
     if (err) {
         console.log("An error occurred while writing JSON Object to File.");
         return console.log(err)
