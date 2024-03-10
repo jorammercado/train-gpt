@@ -2,7 +2,7 @@ import json
 from fuzzywuzzy import fuzz
 
 # Load your data from the JSON file
-with open('dataTeams.json', 'r') as file:
+with open('allConvertedData.json', 'r') as file:
     data = json.load(file)
 
 # Convert the list to a dictionary (assuming the list is in question-answer pairs)
