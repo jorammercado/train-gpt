@@ -26,3 +26,6 @@ data/
 
 node_modules
 fine_tuned_gpt3_model
+fine_tuned_gpt2_sports_model2
+fine_tuned_gpt2_sports_model2/model.safetensors
+model.safetensors
