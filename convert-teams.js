@@ -1,4 +1,4 @@
-const standings = require("./teamsRawData.json")
+const standings = require("./allTeamData1.json")
 const fs = require('fs')
 
 const season = standings.parameters.season

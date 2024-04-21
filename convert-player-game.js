@@ -1,4 +1,4 @@
-const players = require("./playersGamesRawData.json")
+const players = require("./allPlayerGameData.json")
 const fs = require('fs')
 
 const league = "NBA"
